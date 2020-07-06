@@ -1,6 +1,6 @@
 # Multi-Step-Form
 
-Right now I would like to create the multi steps forms in React. I still work at it.
+Create the multi steps forms in React.
 
 If you want to check. Download project on yours PC. Open the terminal and install packages.
 
