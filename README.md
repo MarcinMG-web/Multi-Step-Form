@@ -1,6 +1,6 @@
 # Multi-Step-Form
 
-Create the multi steps forms in React.
+Created the multi steps forms in React.
 
 If you want to check. Download project on yours PC. Open the terminal and install packages.
 
