@@ -7,8 +7,6 @@ import './App.css';
 
 function App() {
 
-  // const classes = useStyles()
-
   return (
   
     <div className = "App">  
